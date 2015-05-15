@@ -1,0 +1,7 @@
+hey
+if can't run install please run
+chmod +x install.sh
+sudo ./install.sh
+    #this will install conky and conky-all
+	#also copy files to system folder
+	#copy .fonts folder to user directory
