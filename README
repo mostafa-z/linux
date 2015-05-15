@@ -5,3 +5,8 @@ sudo ./install.sh
     #this will install conky and conky-all
 	#also copy files to system folder
 	#copy .fonts folder to user directory
+
+{
+created by another user
+some lines added/deleted by me
+}
